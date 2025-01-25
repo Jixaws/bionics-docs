@@ -14,6 +14,7 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ### **H﻿era L.**
 
+* NECC
 * M﻿echanical Engineering
 
 ### **J﻿acqueline B.**
@@ -44,6 +45,7 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 ### **A﻿yati B.**
 
 * U﻿Mass Amherst
+* Biomedical Engineering
 
 ### **N﻿athan C.**
 
@@ -57,25 +59,25 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ## **2﻿023 - Charged Up**
 
-### **K﻿aran Rana**
+### **K﻿aran R**
 
 * U﻿CONN
 * R﻿obotics Engineering & Math
 
-### **A﻿nuva Agrawal**
+### **A﻿nuva A.**
 
 * G﻿eorgia Tech
 * M﻿echanical Engineering
 
-### **C﻿raig Fiorno**
+### **C﻿raig F.**
 
 * U﻿Mass Lowell
 * M﻿echanical Engineering
 
-### **I﻿shaan Patel**
+### **I﻿shaan P.**
 
 * W﻿PI
-* C﻿omputer Science & RObotics Engineering
+* C﻿omputer Science & Robotics Engineering
 
 ## 2022 - Rapid React
 
@@ -305,7 +307,7 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ### **Zaineb A.**
 
-* University of Massachusetts Lowell
+* UMass Lowell
 * Electrical Engineering
 
 ### **Kelly G.**
