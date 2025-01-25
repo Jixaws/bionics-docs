@@ -43,9 +43,8 @@ The team captain acts as the President/CEO of the team and works to oversee all 
 
 Responsibilities:
 
-1. Bridge the gap between Technical Leaders and Operations Leaders.
+1. Bridge the gap between Robot Lead and Operations Lead.
 2. Reminding members of the obligations under the team member agreement.
-3. Ensure Woodie Flowers award is submitted.
 
 ## Robot Lead
 
