@@ -98,7 +98,7 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ### **Tanmay S.**
 
-* University of Massachusetts Dartmoth
+* University of Massachusetts Dartmouth
 * Data Science
 
 ## 2021 - Infinite Recharge v2
