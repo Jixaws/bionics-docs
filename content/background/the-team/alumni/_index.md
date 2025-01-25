@@ -41,254 +41,254 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 * U﻿Mass Amherst
 * M﻿echanical Engineering
 
-### A﻿yati B.
+### **A﻿yati B.**
 
 * U﻿Mass Amherst
 
-### N﻿athan C.
+### **N﻿athan C.**
 
 * S﻿alem State
 * C﻿omputer Science
 
-### N﻿athan Y.
+### **N﻿athan Y.**
 
 * U﻿Mass Amherst
 * B﻿usiness
 
 ## **2﻿023 - Charged Up**
 
-### K﻿aran Rana
+### **K﻿aran Rana**
 
 * U﻿CONN
 * R﻿obotics Engineering & Math
 
-### A﻿nuva Agrawal
+### **A﻿nuva Agrawal**
 
 * G﻿eorgia Tech
 * M﻿echanical Engineering
 
-### C﻿raig Fiorno
+### **C﻿raig Fiorno**
 
 * U﻿Mass Lowell
 * M﻿echanical Engineering
 
-### I﻿shaan Patel
+### **I﻿shaan Patel**
 
 * W﻿PI
 * C﻿omputer Science & RObotics Engineering
 
 ## 2022 - Rapid React
 
-### Alex I.
+### **Alex I.**
 
 * UMass Lowell
 * Mechanical Engineering
 
-### Caleb K.
+### **Caleb K.**
 
 * Wentworth Institute of Technology
 * Biomedical Engineering
 
-### Siobhan T.
+### **Siobhan T.**
 
 * University of Massachusetts Amherst
 * Computer Science and Mathematics
 
-### Tanmay S.
+### **Tanmay S.**
 
 * University of Massachusetts Dartmoth
 * Data Science
 
 ## 2021 - Infinite Recharge v2
 
-### Adriana O.
+### **Adriana O.**
 
 * MCPHS
 * Health Psychology with a focus in Occupational Therapy
 
-### Chelsey M.
+### **Chelsey M.**
 
 * Westfield State University
 * Elementary and Special Education
 
-### Damian T.
+### **Damian T.**
 
 * UMass Lowell
 * Mechanical Engineering
 
-### Matthew Y.
+### **Matthew Y.**
 
 * Cornell University
 * Mechanical Engineering
 
-### Saketh M.
+### **Saketh M.**
 
 * Harvard University
 * Computer Science and Neuroscience
 
 ## 2020 - Infinite Recharge
 
-### Jeff D.
+### **Jeff D.**
 
 * Worcester Polytechnic Institute
 * Robotics Engineering
 
-### Matthew S.
+### **Matthew S.**
 
 * Worcester Polytechnic Institute
 * Robotics Engineering
 
-### Robert L.
+### **Robert L.**
 
 * Fitchburg State
 * Criminal Justice
 
-### Avani A.
+### **Avani A.**
 
 * Case Western Reserve University
 * Neuroscience & Economics
 
-### Tom C.
+### **Tom C.**
 
 * Clarkson University
 * Mechanical Engineering
 
-### Jason B.
+### **Jason B.**
 
 * University of Massachusetts Lowell
 * Computer Science
 
-### Sriram K.
+### **Sriram K.**
 
 * University of Massachusetts Lowell
 * Computer Engineering
 
-### Jordan O.
+### **Jordan O.**
 
 * Southern New Hampshire University
 * Game/Art Design
 
 ## 2019 - Deep Space
 
-### Bryan M.
+### **Bryan M.**
 
 * Wentworth Institute of Technology   
 * Engineering
 
-### Tim W.
+### **Tim W.**
 
 * Wentworth Institute of Technology
 * Electro-mechanical Engineering
 
-### Roshan R.
+### **Roshan R.**
 
 * University of Massachusetts Lowell
 * Computer Science
 
-### Madhu V.
+### **Madhu V.**
 
 * University of Massachusetts Amherst
 * Computer Science
 
-### Ashwin C.
+### **Ashwin C.**
 
 * Rensselaer Polytechnic Institute
 * Computer Science
 
-### Dylan W.
+### **Dylan W.**
 
 * Rensselaer Polytechnic Institute
 * Computer Science & Mathematics
 
-### Sreyas Y.
+### **Sreyas Y.**
 
 * Emory College
 * Neuroscience and Political Philosophy
 
 ## 2018 - Power Up
 
-### Jared A.
+### **Jared A.**
 
 * Wentworth Institute of Technology
 * Electro-mechanical Engineering
 
-### Jared B.
+### **Jared B.**
 
 * Purdue University
 * Civil Engineering
 
-### Nicholas B.
+### **Nicholas B.**
 
 * University of Massachusetts Lowell
 * Mechanical Engineering
 
-### Emma R.
+### **Emma R.**
 
 * Northeastern University
 * Mechanical Engineering & Physics
 
-### Noah B.
+### **Noah B.**
 
 * Wentworth Institute of Technology
 * Interdisciplinary Engineering 
 
 ## 2017 - Steamworks
 
-### Scott Y.
+### **Scott Y.**
 
 * Northeastern University
 * Mechanical Engineering
 
-### Chris C.
+### **Chris C.**
 
 * Rose-Hulman Institute of Technology
 * Computer Engineering & Computer Science
 
-### Michael B.
+### **Michael B.**
 
 * University of Massachusetts Amherst
 * Computer Engineering
 
 ## 2016 - Stronghold
 
-### Jonathan S.
+### **Jonathan S.**
 
 * Worcester Polytechnic Institute Robotics
 * Engineering & Mechanical Engineering
 
-### Edmond B.
+### **Edmond B.**
 
 * Rochester Institute of Technology
 * Computing & Information Technologies
 
-### Summer T.
+### **Summer T.**
 
 * Worcester Polytechnic Institute
 * Chemical Engineering
 
-### Evan C.
+### **Evan C.**
 
 * Middlesex Community College
 * Computer Science
 
 ## 2015 - Recycle Rush
 
-### Nick B.
+### **Nick B.**
 
 * The George Washington University
 * Mechanical Engineering
 
-### Chris S.
+### **Chris S.**
 
 * University of Massachusetts Lowell
 * Plastics Engineering
 
-### Tom W.
+### **Tom W.**
 
 * University of Vermont
 * Civil Engineering
 
-### Nilay P.
+### **Nilay P.**
 
 * Wentworth Institute of Technology
 * Biomedical Engineering
@@ -297,18 +297,18 @@ Team 4909 has Alumni with a wide range of goals from being an astronaut to eleme
 
 ## 2014 - Aerial Assist
 
-### Amy C.
+### **Amy C.**
 
 * Purdue University
 * Aeronautical/Astronautical Engineering
 *
 
-### Zaineb A.
+### **Zaineb A.**
 
 * University of Massachusetts Lowell
 * Electrical Engineering
 
-### Kelly G.
+### **Kelly G.**
 
 * University of Nevada    
 
